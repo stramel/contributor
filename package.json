@@ -1,0 +1,29 @@
+{
+  "name": "contributor",
+  "version": "0.1.0",
+  "description": "A simple module to manage git contributors for your repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stramel/contributor.git"
+  },
+  "keywords": [
+    "contributor",
+    "contribute",
+    "collaborator",
+    "collaborate",
+    "author",
+    "git",
+    "package",
+    "markdown"
+  ],
+  "author": "Michael Stramel",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/stramel/contributor/issues"
+  },
+  "homepage": "https://github.com/stramel/contributor#readme"
+}
